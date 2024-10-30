@@ -1,6 +1,6 @@
 # Icons for OpenStreetMap
 
-A collection of 600 clean high quality SVG map icons.
+The project collected nearly 600 high-quality map icons.
 
 ## aeroway
 
