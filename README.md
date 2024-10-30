@@ -4,32 +4,32 @@ A collection of 600 clean high quality SVG map icons.
 
 ## aeroway
 
-![](aeroway.png)
+![](icons/aeroway.png)
 
 ## amenity
 
-![](amenity.png)
+![](icons/amenity.png)
 
 ## highway
 
-![](highway.png)
+![](icons/highway.png)
 
 ## historic
 
-![](historic.png)
+![](icons/historic.png)
 
 ## leisure
 
-![](leisure.png)
+![](icons/leisure.png)
 
 ## man_made
 
-![](man_made.png)
+![](icons/man_made.png)
 
 ## shop
 
-![](shop.png)
+![](icons/shop.png)
 
 ## tourism
 
-![](tourism.png)
+![](icons/tourism.png)
